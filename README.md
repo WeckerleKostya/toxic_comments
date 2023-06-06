@@ -16,7 +16,7 @@
     
 **Основные инструменты:** `Python`, `Pandas`, `BERT`, `nltk`, `tf_idf`
 
-**Направление деятельнсоти:** `Machine Learning`, `NLP`
+**Направление деятельности:** `Machine Learning`, `NLP`
 
 
 ## Описание данных:
